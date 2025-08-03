@@ -1,4 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Rithwik Mishra </h1>
+
 # 💫 About Me:
 I'm a CS and Statistics student at UNC Chapel Hill with a strong passion for building products that make a real impact on my community. I'm especially interested in backend development and AI.<br>
 
