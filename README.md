@@ -1,30 +1,53 @@
-<h1 align="center"> Hi 👋 I'm Rithwik Mishra </h1>
+# Hi there, I'm Rithwik 👋
 
-# 💫 About Me:
-I'm a CS and Statistics student at UNC Chapel Hill with a strong passion for building products that make a real impact on my community. I'm especially interested in backend development and AI.<br>
+I'm a **Computer Science & Statistics** double major at **UNC Chapel Hill** ('27) passionate about building **distributed cloud microservices**, **agentic AI systems**, and **scalable full-stack platforms**.
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithwik-mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishra.rithwik05@gmail.com) 
+### 🚀 What I'm Up To
+- 💼 **SWE Intern @ Wells Fargo (WIMT)**: Building enterprise Spring Boot & React eSignature microservices, Kafka event streams, and agentic workflows on Red Hat OpenShift.
+- 🔬 **Researcher @ UNC AI Lab (SAIL)**: Architecting socio-agentic RAG infrastructure & global AI governance platforms on Azure.
+- 🛠️ **Dev Board @ HackNC**: Engineering React/FastAPI core event web infrastructure for 300+ hackers and running AI workshops.
 
-# 💻 Tech Stack:
-Languages: 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+---
 
-Developer Tools:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+### 💻 Technical Toolkit
 
-Libraries/Frameworks:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
+**Cloud, DevOps & Data Infrastructure**  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**AI & Machine Learning**  
+![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-8A2BE2?style=flat-square)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot Agents](https://img.shields.io/badge/Copilot_Agents-000000?style=flat-square&logo=github&logoColor=white)
 
+---
+
+### 🌟 Featured Work & Systems
+
+- **AI Voyager:** Multi-agent socio-agentic AI governance infrastructure built on Azure, Django, React, and a hybrid 1.1M+ node MongoDB/Neo4j graph pipeline.
+- **Carolina Course Compass:** Multi-agent LLM degree planner utilizing custom PostgreSQL tools and DAG validation to generate 100% policy-compliant graduation tracks.
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rithwik_Mishra-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rithwik-mishra)
+[![Email](https://img.shields.io/badge/Email-mishra.rithwik05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mishra.rithwik05@gmail.com)
